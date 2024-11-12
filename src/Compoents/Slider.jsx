@@ -2,6 +2,9 @@ import React from 'react'
 
 export default function Slider() {
   return (
-    <div>Slider</div>
+    <>
+    <h2>Slider</h2>
+    <p>Slider Page</p>
+   </>
   )
 }
