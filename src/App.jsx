@@ -9,6 +9,7 @@ function App() {
   return (
     <>
      <h2>Hello World</h2>
+     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque, omnis.</p>
     </>
   )
 }
