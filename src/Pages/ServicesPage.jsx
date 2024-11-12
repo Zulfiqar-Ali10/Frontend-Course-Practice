@@ -2,6 +2,6 @@ import React from 'react'
 
 export default function ServicesPage() {
   return (
-    <div>ServicesPage</div>
+    <h2>ServicesPage</h2>
   )
 }
