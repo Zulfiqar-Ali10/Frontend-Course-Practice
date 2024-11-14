@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import './App.css';
+import Header from './Compoents/Header';
 
 
 function App() {
@@ -8,6 +9,7 @@ function App() {
   return (
     <>
       <div className="App">
+        <Header />
         <h2 className='m-auto text-center mt-20 text-blue-600 text-5xl bg-blue-300 pt-5 pb-5 rounded w-[400px]'>
           Hello World!
         </h2>
