@@ -10,8 +10,6 @@ export default function Home() {
       <li>Services</li>
       <li>Contact us</li>
       <li>Blog</li>
-      <li>Home Page</li>
-      <li>Services Page</li>
      </ul>
    </>
   )
