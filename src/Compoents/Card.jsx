@@ -38,7 +38,7 @@ export default function Cards() {
       description: "Business major with a focus on international trade and economics."
     },
     {
-      imageUrl: "",
+      imageUrl: "https://media.istockphoto.com/id/1365601848/photo/portrait-of-a-young-woman-carrying-her-schoolbooks-outside-at-college.jpg?s=612x612&w=0&k=20&c=EVxLUZsL0ueYFF1Nixit6hg-DkiV52ddGw_orw9BSJA=",
       title: "Frank Lee",
       description: "Biomedical engineering student developing innovative healthcare technologies."
     }
