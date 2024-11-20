@@ -34,12 +34,12 @@ export default function Cards() {
     },
     {
       imageUrl: "https://st2.depositphotos.com/1006611/8886/i/950/depositphotos_88860222-stock-photo-indian-college-student.jpg",
-      title: "Eva Martinez Frank Lee",
+      title: "Frank Lee",
       description: "Business major with a focus on international trade and economics."
     },
     {
       imageUrl: "https://media.istockphoto.com/id/1365601791/photo/shot-of-a-young-woman-carrying-her-schoolbooks-outside-at-college.jpg?s=612x612&w=0&k=20&c=TqJAlUvSl7Kfcky1LlJcwPYweD1c6awCeZllB_iRgso=",
-      title: "",
+      title: "Eva Martinez",
       description: "Biomedical engineering student developing innovative healthcare technologies."
     }
   ]
