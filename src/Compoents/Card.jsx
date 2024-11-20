@@ -13,7 +13,7 @@ const Card = ({ imageUrl, title, description }) => (
 export default function Cards() {
   const students = [
     {
-      imageUrl: "",
+      imageUrl: "https://www.euroschoolindia.com/wp-content/uploads/2023/10/Brown-university-admission-jpg.webp",
       title: "Alice Johnson",
       description: "Computer Science major with a passion for AI and machine learning."
     },
