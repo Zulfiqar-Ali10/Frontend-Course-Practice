@@ -23,7 +23,7 @@ export default function Cards() {
       description: "Environmental Science student focusing on sustainable energy solutions."
     },
     {
-      imageUrl: "",
+      imageUrl: "https://media.istockphoto.com/id/1447889800/photo/two-college-student-female-friends-smiling-ready-for-classes-at-the-university-campus.jpg?s=612x612&w=0&k=20&c=IIxWOgexUu8DHDq_jPNMgPeoqsy77w9da_-9dUZeQD4=",
       title: "Carol Davis",
       description: "Literature enthusiast exploring the intersection of classic and modern writings."
     },
