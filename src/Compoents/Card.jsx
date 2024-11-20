@@ -18,7 +18,7 @@ export default function Cards() {
       description: "Computer Science major with a passion for AI and machine learning."
     },
     {
-      imageUrl: "",
+      imageUrl: "https://www.louisvillecardinal.com/media/2022/11/Depositphotos_122104490_S.jpg",
       title: "Bob Smith",
       description: "Environmental Science student focusing on sustainable energy solutions."
     },
