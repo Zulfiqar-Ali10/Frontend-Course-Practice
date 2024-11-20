@@ -28,12 +28,12 @@ export default function Cards() {
       description: "Literature enthusiast exploring the intersection of classic and modern writings."
     },
     {
-      imageUrl: "",
+      imageUrl: "https://thumbs.dreamstime.com/b/female-university-student-gorgeous-indian-portrait-41039145.jpg",
       title: "David Brown",
       description: "Aspiring physicist working on quantum computing research projects."
     },
     {
-      imageUrl: "",
+      imageUrl: "https://st2.depositphotos.com/1006611/8886/i/950/depositphotos_88860222-stock-photo-indian-college-student.jpg",
       title: "Eva Martinez",
       description: "Business major with a focus on international trade and economics."
     },
