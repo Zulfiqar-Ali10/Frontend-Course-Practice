@@ -13,12 +13,12 @@ export default function Slider() {
       caption: "Collaborative Learning Environment"
     },
     {
-      url: "https://www.lsbuk.com/wp-content/uploads/2022/08/university-students.jpg",
+      url: "https://images.igrad.com/financial-wellness-blog/time-to-get-creative-how-universities-plan-to-attract-gen-z.webp",
       alt: "Modern classroom with technology",
       caption: "Innovative Classroom Setup"
     },
     {
-      url: "https://images.igrad.com/financial-wellness-blog/time-to-get-creative-how-universities-plan-to-attract-gen-z.webp",
+      url: "https://www.lsbuk.com/wp-content/uploads/2022/08/university-students.jpg",
       alt: "University campus with students",
       caption: "Vibrant Campus Life"
     }
