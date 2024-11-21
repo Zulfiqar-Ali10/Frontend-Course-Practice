@@ -8,7 +8,7 @@ export default function Slider() {
 
   const images = [
     {
-      url: "https://www.lsbuk.com/wp-content/uploads/2022/08/university-students.jpg",
+      url: "",
       alt: "Students studying in a library",
       caption: "Collaborative Learning Environment"
     },
