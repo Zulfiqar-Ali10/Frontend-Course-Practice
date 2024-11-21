@@ -8,12 +8,12 @@ export default function Slider() {
 
   const images = [
     {
-      url: "https://www.lsbuk.com/wp-content/uploads/2022/08/university-students.jpg",
+      url: "https://marvel-b1-cdn.bc0a.com/f00000000290162/images.ctfassets.net/2htm8llflwdx/7xmXzQ5uLqDsSOJVt019Ot/83999bd01e980c81a197346cb3cac7ed/StudentLife_StudentGroup_Walking_Outdoor_GettyImages-1165524880.jpg?fit=thumb",
       alt: "Students studying in a library",
       caption: "Collaborative Learning Environment"
     },
     {
-      url: "https://marvel-b1-cdn.bc0a.com/f00000000290162/images.ctfassets.net/2htm8llflwdx/7xmXzQ5uLqDsSOJVt019Ot/83999bd01e980c81a197346cb3cac7ed/StudentLife_StudentGroup_Walking_Outdoor_GettyImages-1165524880.jpg?fit=thumb",
+      url: "https://www.lsbuk.com/wp-content/uploads/2022/08/university-students.jpg",
       alt: "Modern classroom with technology",
       caption: "Innovative Classroom Setup"
     },
