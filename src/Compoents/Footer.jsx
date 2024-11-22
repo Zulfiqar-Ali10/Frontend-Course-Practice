@@ -9,7 +9,7 @@ const StudyDetailCard = ({ icon: Icon, title, description }) => (
 )
 
 const Footer = () => (
-  <footer className="bg-gray-800 text-white py-8">
+  <footer className="bg-gray-800 text-white py-8 ">
     <div className="container mx-auto px-4">
       <div className="flex flex-wrap justify-between">
         <div className="w-full md:w-1/4 mb-6 md:mb-0">
@@ -85,7 +85,7 @@ export default function StudyDetailsAndFooter() {
 
   return (
     <>
-      <section className="bg-gray-100 py-16">
+      <section className="bg-gray-100 py-16 ">
         <div className="container mx-auto px-4">
           <h2 className="text-3xl font-bold text-center mb-12">Why Choose StudyHub?</h2>
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
