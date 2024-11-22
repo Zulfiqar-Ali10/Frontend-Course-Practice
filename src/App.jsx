@@ -1,10 +1,11 @@
 import React, { useState } from 'react';
 import './App.css';
-import Header from './Compoents/Header';
 import Banner from './Compoents/Banner';
 import Cards from './Compoents/Card';
 import Slider from './Compoents/Slider';
 import Footer from './Compoents/Footer';
+import Header from './Compoents/Header';
+
 
 
 
@@ -15,11 +16,11 @@ function App() {
     <>
       <div className="App">
         <Header />
-        <Banner/>
-        <Cards/>
-       <Slider/>
-       <Footer/>
-       
+        <Banner />
+        <Cards />
+        <Slider />
+        <Footer />
+
       </div>
     </>
   );
