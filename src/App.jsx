@@ -5,6 +5,7 @@ import Cards from './Compoents/Card';
 import Slider from './Compoents/Slider';
 import Footer from './Compoents/Footer';
 import Header from './Compoents/Header';
+import WeatherApp from './Compoents/WeatherApp';
 
 
 
@@ -18,6 +19,7 @@ function App() {
         <Header />
         <Banner />
         <Cards />
+        <WeatherApp />
         <Slider />
         <Footer />
 
