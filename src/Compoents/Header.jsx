@@ -27,12 +27,12 @@ export default function Navbar() {
 
           {/* Desktop Menu */}
           <div className="hidden md:flex space-x-6 items-center">
-            <a
-              href="#"
+            <Link
+              to="/"
               className="py-2 px-4 font-medium text-gray-800 hover:text-blue-500 transition duration-300"
             >
               Home
-            </a>
+            </Link>
             <Link
               to="/cards"
               className="py-2 px-4 font-medium text-gray-800 hover:text-blue-500 transition duration-300"
