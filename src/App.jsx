@@ -1,11 +1,5 @@
 import React, { useState } from 'react';
 import './App.css';
-import Banner from './Compoents/Banner';
-import Cards from './Compoents/Card';
-import Slider from './Compoents/Slider';
-import Footer from './Compoents/Footer';
-import Header from './Compoents/Header';
-import WeatherApp from './Compoents/WeatherApp';
 import { Routes, Route } from 'react-router-dom';
 
 
@@ -21,12 +15,7 @@ function App() {
         <Routes>
           <Route />
         </Routes>
-        <Header />
-        <Banner />
-        <Cards />
-        <WeatherApp />
-        <Slider />
-        <Footer />
+       
 
       </div>
     </>
