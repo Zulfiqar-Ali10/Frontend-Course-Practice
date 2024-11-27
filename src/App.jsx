@@ -1,9 +1,8 @@
 import React, { useState } from 'react';
 import './App.css';
 import { Routes, Route } from 'react-router-dom';
-
-
-
+import Home from './Compoents/Home';
+import Cards from './Compoents/Card';
 
 
 function App() {
@@ -13,7 +12,8 @@ function App() {
     <>
       <div className="App">
         <Routes>
-          <Route />
+          <Route path="/"  element={<Home/>} />
+          <Route path="/cards"  element={<Cards/>} />
         </Routes>
        
 
