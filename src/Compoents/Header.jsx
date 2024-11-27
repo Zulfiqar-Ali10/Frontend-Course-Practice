@@ -1,7 +1,8 @@
-'use client'
+
 
 import { useState } from 'react'
-import { Menu, X } from 'lucide-react'
+import {  Menu, X } from 'lucide-react'
+import { Link } from 'react-router-dom'
 
 export default function Navbar() {
   const [isOpen, setIsOpen] = useState(false)
@@ -30,12 +31,12 @@ export default function Navbar() {
             >
               Home
             </a>
-            <a
-              href="#"
+            <Link
+              to="/cards"
               className="py-2 px-4 font-medium text-gray-800 hover:text-blue-500 transition duration-300"
             >
               Services
-            </a>
+            </Link>
             <a
               href="#"
               className="py-2 px-4 font-medium text-gray-800 hover:text-blue-500 transition duration-300"
