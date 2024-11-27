@@ -1,4 +1,6 @@
 import React from 'react'
+import Header from '../Compoents/Header'
+import Footer from '../Compoents/Footer'
 
 const Card = ({ imageUrl, title, description }) => (
   <div className="bg-white rounded-lg shadow-md overflow-hidden">
@@ -46,6 +48,7 @@ export default function Cards() {
 
   return (
   <>
+  <Header />
     <div className="container mx-auto px-4 py-8">
       <h2 className="text-3xl font-bold text-center mb-8">Our Outstanding Students</h2>
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
@@ -54,6 +57,7 @@ export default function Cards() {
         ))}
       </div>
     </div>
+    <Footer />
   </>
   )
 }
