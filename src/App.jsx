@@ -6,6 +6,8 @@ import Slider from './Compoents/Slider';
 import Footer from './Compoents/Footer';
 import Header from './Compoents/Header';
 import WeatherApp from './Compoents/WeatherApp';
+import { Routes } from 'react-router-dom';
+import { Route } from 'lucide-react';
 
 
 
@@ -16,6 +18,9 @@ function App() {
   return (
     <>
       <div className="App">
+        <Routes>
+          <Route />
+        </Routes>
         <Header />
         <Banner />
         <Cards />
