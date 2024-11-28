@@ -34,7 +34,7 @@ export default function Navbar() {
               Home
             </Link>
             <Link
-              to="/cards"
+              to="/servicespage"
               className="py-2 px-4 font-medium text-gray-800 hover:text-blue-500 transition duration-300"
             >
               Services
