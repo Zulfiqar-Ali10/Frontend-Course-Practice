@@ -30,7 +30,7 @@ export default function Cards() {
     },
     {
       imageUrl: "https://thumbs.dreamstime.com/b/female-university-student-gorgeous-indian-portrait-41039145.jpg",
-      title: "David Brown",
+      title: "David Bean",
       description: "Aspiring physicist working on quantum computing research projects."
     },
     {
