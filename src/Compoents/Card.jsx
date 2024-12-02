@@ -35,7 +35,7 @@ export default function Cards() {
     },
     {
       imageUrl: "https://st2.depositphotos.com/1006611/8886/i/950/depositphotos_88860222-stock-photo-indian-college-student.jpg",
-      title: "Frink Lees",
+      title: "Frink Lee",
       description: "Business major with a focus on international trade and economics."
     },
     {
