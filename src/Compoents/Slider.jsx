@@ -20,7 +20,7 @@ export default function Slider() {
     {
       url: "https://www.lsbuk.com/wp-content/uploads/2022/08/university-students.jpg",
       alt: "University campus with students",
-      caption: "Vibrant Campus Life"
+      caption: "Vibrant Campus Lifes"
     }
   ]
 
