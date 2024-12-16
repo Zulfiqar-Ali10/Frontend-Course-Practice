@@ -11,7 +11,7 @@ export default function Banner() {
               <span className="block text-yellow-300">Start your free trial today.</span>
             </h2>
             <p className="mt-3 max-w-md text-lg text-gray-200 sm:text-xl md:mt-5 md:max-w-3xl">
-              Join thousands to satisfied customers who have transformed their business with our cutting-edge solutions.
+              Join thousands of satisfied customers who have transformed their business with our cutting-edge solutions.
             </p>
             <div className="mt-8 flex">
               <div className="inline-flex rounded-md shadow">
