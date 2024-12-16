@@ -16,7 +16,7 @@ export default function Cards() {
     {
       imageUrl: "https://www.euroschoolindia.com/wp-content/uploads/2023/10/Brown-university-admission-jpg.webp",
       title: "Alice Johnson",
-      description: "Computer Science major with  passion for AI and machine learning."
+      description: "Computer Science major with a passion for AI and machine learning."
     },
     {
       imageUrl: "https://www.louisvillecardinal.com/media/2022/11/Depositphotos_122104490_S.jpg",
