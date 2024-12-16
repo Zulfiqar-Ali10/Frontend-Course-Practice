@@ -7,7 +7,7 @@ export default function Banner() {
         <div className="lg:grid lg:grid-cols-2 lg:gap-8 items-center">
           <div>
             <h2 className="text-3xl font-extrabold text-white sm:text-4xl">
-              <span className="block">Ready to dive in?</span>
+              <span className="block">Ready to dive in</span>
               <span className="block text-yellow-300">Start your free trial today.</span>
             </h2>
             <p className="mt-3 max-w-md text-lg text-gray-200 sm:text-xl md:mt-5 md:max-w-3xl">
